@@ -1,0 +1,12 @@
+﻿customtkinter
+opencv-python
+mediapipe
+numpy
+groq
+python-dotenv
+edge-tts
+pygame
+SpeechRecognition
+pyaudio
+mem0ai
+chromadb
